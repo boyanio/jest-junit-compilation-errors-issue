@@ -1,0 +1,25 @@
+{
+  "name": "jest-junit-compilation-errors-issue",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest --reporters default --reporters jest-junit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boyanio/jest-junit-compilation-errors-issue.git"
+  },
+  "author": "Boyan Mihaylov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boyanio/jest-junit-compilation-errors-issue/issues"
+  },
+  "homepage": "https://github.com/boyanio/jest-junit-compilation-errors-issue#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.23",
+    "jest": "^24.9.0",
+    "jest-junit": "^10.0.0",
+    "ts-jest": "^24.2.0",
+    "typescript": "^3.7.2"
+  }
+}
